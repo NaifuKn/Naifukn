@@ -1,38 +1,22 @@
-# 👋 Olá, eu sou o Victor
+# Sobre mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Atualmente estudando desenvolvimento web e programação  
-🚀 Buscando evoluir através de projetos práticos
+💻 Em busca de uma oportunidade de estágio na área de tecnologia  
+🌱 Atualmente estudando e desenvolvendo projetos com Python, JavaScript, SQL, HTML e CSS  
+🚀 Sempre buscando aprender novas tecnologias e transformar conhecimento em projetos práticos.
+
+## 📫 Contato
+
+<a href="SEU_LINK_DO_LINKEDIN">
+  <img src="https://www.linkedin.com/in/victor-hugo1604207/" width="45">
+</a>
+
+<a href="mailto:SEU_EMAIL">
+  <img src="https://skillicons.dev/icons?i=gmail" width="45">
+</a>
 
 ## 🛠️ Tecnologias
 
-- HTML
-- CSS
-- JavaScript
-- Python
-- SQL
-- Git e GitHub
-
-## 📚 Atualmente estudando
-
-- Desenvolvimento Front-end
-- JavaScript
-- Banco de Dados
-- Responsividade e acessibilidade
-
-## 🚀 Projetos
-
-### 🌱 Projeto ONG
-Site responsivo desenvolvido como projeto acadêmico.
-
-Tecnologias:
-- HTML5
-- CSS3
-- JavaScript
-
-🔗 [Ver repositório](https://github.com/NaifuKn/projeto-ong)
-
-## 🎯 Objetivo
-
-Continuar desenvolvendo projetos para aprimorar meus conhecimentos
-e construir meu portfólio como desenvolvedor.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql," />
+</p>
