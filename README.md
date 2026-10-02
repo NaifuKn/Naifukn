@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Victor
 
-<!--
-**NaifuKn/Naifukn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Atualmente estudando desenvolvimento web e programação  
+🚀 Buscando evoluir através de projetos práticos
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML
+- CSS
+- JavaScript
+- Python
+- SQL
+- Git e GitHub
+
+## 📚 Atualmente estudando
+
+- Desenvolvimento Front-end
+- JavaScript
+- Banco de Dados
+- Responsividade e acessibilidade
+
+## 🚀 Projetos
+
+### 🌱 Projeto ONG
+Site responsivo desenvolvido como projeto acadêmico.
+
+Tecnologias:
+- HTML5
+- CSS3
+- JavaScript
+
+🔗 [Ver repositório](https://github.com/NaifuKn/projeto-ong)
+
+## 🎯 Objetivo
+
+Continuar desenvolvendo projetos para aprimorar meus conhecimentos
+e construir meu portfólio como desenvolvedor.
