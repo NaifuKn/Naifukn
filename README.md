@@ -18,5 +18,5 @@
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql," />
 </p>
