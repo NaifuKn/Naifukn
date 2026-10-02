@@ -7,11 +7,11 @@
 
 ## 📫 Contato
 
-<a href="SEU_LINK_DO_LINKEDIN">
-  <img src="https://www.linkedin.com/in/victor-hugo1604207/" width="45">
+<a href="[SEU_LINK_DO_LINKEDIN](https://www.linkedin.com/in/victor-hugo1604207/)">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45">
 </a>
 
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:victorhugo1604207@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="45">
 </a>
 
