@@ -7,7 +7,7 @@
 
 ## 📫 Contato
 
-<a href="[SEU_LINK_DO_LINKEDIN](https://www.linkedin.com/in/victor-hugo1604207/)">
+<a href="(https://www.linkedin.com/in/victor-hugo1604207/)">
   <img src="https://skillicons.dev/icons?i=linkedin" width="45">
 </a>
 
